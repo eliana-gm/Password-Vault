@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Password-Vault/static/css/main.c3181bc4.css",
+    "main.js": "/Password-Vault/static/js/main.7206e379.js",
+    "static/js/453.8ab44547.chunk.js": "/Password-Vault/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Password-Vault/index.html",
+    "main.c3181bc4.css.map": "/Password-Vault/static/css/main.c3181bc4.css.map",
+    "main.7206e379.js.map": "/Password-Vault/static/js/main.7206e379.js.map",
+    "453.8ab44547.chunk.js.map": "/Password-Vault/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3181bc4.css",
+    "static/js/main.7206e379.js"
+  ]
+}
